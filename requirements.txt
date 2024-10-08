@@ -18,6 +18,6 @@ Shapely==1.7.0
 six==1.14.0
 torch==1.4.0
 torchvision==0.5.0
-tqdm==4.43.0
+tqdm==4.66.3
 trimesh==3.5.23
 xxhash==1.4.3
